@@ -13,6 +13,11 @@
 	url = https://github.com/kwstat/corrgram
 	shallow = true
 	registered = true
+[submodule "desplot"]
+	path = desplot
+	url = https://github.com/kwstat/desplot
+	shallow = true
+	registered = true
 [submodule "gge"]
 	path = gge
 	url = https://github.com/kwstat/gge
@@ -21,6 +26,16 @@
 [submodule "hopkins"]
 	path = hopkins
 	url = https://github.com/kwstat/hopkins
+	shallow = true
+	registered = true
+[submodule "lookup"]
+	path = lookup
+	url = https://github.com/kwstat/lookup
+	shallow = true
+	registered = true
+[submodule "lucid"]
+	path = lucid
+	url = https://github.com/kwstat/lucid
 	shallow = true
 	registered = true
 [submodule "mountainplot"]
