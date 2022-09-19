@@ -8,23 +8,11 @@
     "oncran": true
   },
   {
-    "package": "desplot",
-    "oncran": true
-  },
-  {
     "package": "gge",
     "oncran": true
   },
   {
     "package": "hopkins",
-    "oncran": true
-  },
-  {
-    "package": "lookup",
-    "oncran": true
-  },
-  {
-    "package": "lucid",
     "oncran": true
   },
   {
