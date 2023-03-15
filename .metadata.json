@@ -1,10 +1,22 @@
 [
   {
-    "package": "agridat",
+    "package": "nipals",
     "oncran": true
   },
   {
     "package": "corrgram",
+    "oncran": true
+  },
+  {
+    "package": "agridat",
+    "oncran": true
+  },
+  {
+    "package": "lucid",
+    "oncran": true
+  },
+  {
+    "package": "lookup",
     "oncran": true
   },
   {
@@ -20,23 +32,11 @@
     "oncran": true
   },
   {
-    "package": "lookup",
-    "oncran": true
-  },
-  {
-    "package": "lucid",
+    "package": "pagenum",
     "oncran": true
   },
   {
     "package": "mountainplot",
-    "oncran": true
-  },
-  {
-    "package": "nipals",
-    "oncran": true
-  },
-  {
-    "package": "pagenum",
     "oncran": true
   },
   {

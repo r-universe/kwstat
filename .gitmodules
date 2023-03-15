@@ -3,14 +3,29 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "agridat"]
-	path = agridat
-	url = https://github.com/kwstat/agridat
+[submodule "nipals"]
+	path = nipals
+	url = https://github.com/kwstat/nipals
 	shallow = true
 	registered = true
 [submodule "corrgram"]
 	path = corrgram
 	url = https://github.com/kwstat/corrgram
+	shallow = true
+	registered = true
+[submodule "agridat"]
+	path = agridat
+	url = https://github.com/kwstat/agridat
+	shallow = true
+	registered = true
+[submodule "lucid"]
+	path = lucid
+	url = https://github.com/kwstat/lucid
+	shallow = true
+	registered = true
+[submodule "lookup"]
+	path = lookup
+	url = https://github.com/kwstat/lookup
 	shallow = true
 	registered = true
 [submodule "desplot"]
@@ -28,29 +43,14 @@
 	url = https://github.com/kwstat/hopkins
 	shallow = true
 	registered = true
-[submodule "lookup"]
-	path = lookup
-	url = https://github.com/kwstat/lookup
-	shallow = true
-	registered = true
-[submodule "lucid"]
-	path = lucid
-	url = https://github.com/kwstat/lucid
+[submodule "pagenum"]
+	path = pagenum
+	url = https://github.com/kwstat/pagenum
 	shallow = true
 	registered = true
 [submodule "mountainplot"]
 	path = mountainplot
 	url = https://github.com/kwstat/mountainplot
-	shallow = true
-	registered = true
-[submodule "nipals"]
-	path = nipals
-	url = https://github.com/kwstat/nipals
-	shallow = true
-	registered = true
-[submodule "pagenum"]
-	path = pagenum
-	url = https://github.com/kwstat/pagenum
 	shallow = true
 	registered = true
 [submodule "pals"]
