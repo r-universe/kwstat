@@ -8,6 +8,11 @@
 	url = https://github.com/kwstat/agridat
 	shallow = true
 	registered = true
+[submodule "clustertend"]
+	path = clustertend
+	url = https://github.com/cran/clustertend
+	shallow = true
+	registered = true
 [submodule "corrgram"]
 	path = corrgram
 	url = https://github.com/kwstat/corrgram
@@ -56,5 +61,10 @@
 [submodule "pals"]
 	path = pals
 	url = https://github.com/kwstat/pals
+	shallow = true
+	registered = true
+[submodule "rseedcalc"]
+	path = rseedcalc
+	url = https://github.com/cran/rseedcalc
 	shallow = true
 	registered = true
