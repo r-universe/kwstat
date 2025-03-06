@@ -8,6 +8,9 @@
 [submodule "clustertend"]
 	path = clustertend
 	url = https://github.com/kwstat/clustertend
+[submodule "connected"]
+	path = connected
+	url = https://github.com/kwstat/connected
 [submodule "corrgram"]
 	path = corrgram
 	url = https://github.com/kwstat/corrgram
